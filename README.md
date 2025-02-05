@@ -12,6 +12,7 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>Array</strong></summary>
 
 - [1. Two Sum.md](Array/1.%20Two%20Sum.md)
+- [4. Median of Two Sorted Arrays.md](Array/4.%20Median%20of%20Two%20Sorted%20Arrays.md)
 
 </details>
 
@@ -36,6 +37,7 @@ Each category contains problems and their solutions. Click on a section to expan
 <details>
 <summary><strong>Binary Search</strong></summary>
 
+- [4. Median of Two Sorted Arrays.md](Binary%20Search/4.%20Median%20of%20Two%20Sorted%20Arrays.md)
 
 </details>
 
@@ -132,6 +134,7 @@ Each category contains problems and their solutions. Click on a section to expan
 <details>
 <summary><strong>Divide and Conquer</strong></summary>
 
+- [4. Median of Two Sorted Arrays.md](Divide%20and%20Conquer/4.%20Median%20of%20Two%20Sorted%20Arrays.md)
 
 </details>
 
