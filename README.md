@@ -1,11 +1,11 @@
-# Algorithm Index
+# 📘 LeetCode C++ Solutions
 
-This repository contains categorized solutions for various algorithmic problems.
+This repository contains categorized **LeetCode solutions in C++**, structured for easy navigation and reference.  
+Each problem is **organized by topic**, making it easier to find and practice specific algorithms.
 
 ---
 
 ## 📂 Categories
-
 Each category contains problems and their solutions. Click on a section to expand it.
 
 <details>
@@ -436,14 +436,42 @@ Each category contains problems and their solutions. Click on a section to expan
 
 </details>
 
+---
+
+## 🚀 How to Use
+### 🔍 Finding a Solution
+1. Browse through the **categories** above.
+2. Click on a **category** to expand it.
+3. Select a **problem** to view the solution.
+
+### 💻 Running a Solution
+To compile and run a C++ solution locally:
+```bash
+g++ -std=c++17 filename.cpp -o output
+./output
+```
 
 ---
+
 ## 📜 License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the **MIT License**.  
+See the full license [here](LICENSE).
+
+---
 
 ## 🤝 Contributing
-Feel free to contribute by adding solutions, improving explanations, or organizing content!
+Want to contribute? Here's how:
+- **Add a new solution** in the appropriate category.
+- **Run `update_readme.sh`** to refresh `README.md`.
+- **Submit a pull request** with your solution.
+
+---
 
 ## 🔗 References
 - [LeetCode](https://leetcode.com/)
 - [GeeksforGeeks](https://www.geeksforgeeks.org/)
+- [C++ Documentation](https://en.cppreference.com/w/)
+
+---
+
+**🚀 Happy Coding & Algorithm Solving!**
