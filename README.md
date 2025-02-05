@@ -31,6 +31,14 @@ Each category contains problems and their solutions. Click on a section to expan
 </details>
 
 <details>
+<summary><strong>Dynamic Programming</strong></summary>
+
+- [10. Regular Expression Matching.md](Dynamic%20Programming/10.%20Regular%20Expression%20Matching.md)
+- [5. Longest Palindromic Substring.md](Dynamic%20Programming/5.%20Longest%20Palindromic%20Substring.md)
+
+</details>
+
+<details>
 <summary><strong>Hash Table</strong></summary>
 
 - [1. Two Sum.md](Hash%20Table/1.%20Two%20Sum.md)
@@ -49,12 +57,15 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>Math</strong></summary>
 
 - [2. Add Two Numbers.md](Math/2.%20Add%20Two%20Numbers.md)
+- [7. Reverse Integer.md](Math/7.%20Reverse%20Integer.md)
+- [9. Palindrome Number.md](Math/9.%20Palindrome%20Number.md)
 
 </details>
 
 <details>
 <summary><strong>Recursion</strong></summary>
 
+- [10. Regular Expression Matching.md](Recursion/10.%20Regular%20Expression%20Matching.md)
 - [2. Add Two Numbers.md](Recursion/2.%20Add%20Two%20Numbers.md)
 
 </details>
@@ -69,7 +80,18 @@ Each category contains problems and their solutions. Click on a section to expan
 <details>
 <summary><strong>String</strong></summary>
 
+- [10. Regular Expression Matching.md](String/10.%20Regular%20Expression%20Matching.md)
 - [3. Longest Substring Without Repeating Characters.md](String/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
+- [5. Longest Palindromic Substring.md](String/5.%20Longest%20Palindromic%20Substring.md)
+- [6. Zigzag Conversion.md](String/6.%20Zigzag%20Conversion.md)
+- [8. String to Integer (atoi).md](String/8.%20String%20to%20Integer%20(atoi).md)
+
+</details>
+
+<details>
+<summary><strong>Two Pointers</strong></summary>
+
+- [5. Longest Palindromic Substring.md](Two%20Pointers/5.%20Longest%20Palindromic%20Substring.md)
 
 </details>
 
