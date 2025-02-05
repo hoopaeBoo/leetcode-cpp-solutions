@@ -223,12 +223,14 @@ Each category contains problems and their solutions. Click on a section to expan
 <details>
 <summary><strong>Linked List</strong></summary>
 
+- [2. Add Two Numbers.md](Linked%20List/2.%20Add%20Two%20Numbers.md)
 
 </details>
 
 <details>
 <summary><strong>Math</strong></summary>
 
+- [2. Add Two Numbers.md](Math/2.%20Add%20Two%20Numbers.md)
 
 </details>
 
@@ -319,6 +321,7 @@ Each category contains problems and their solutions. Click on a section to expan
 <details>
 <summary><strong>Recursion</strong></summary>
 
+- [2. Add Two Numbers.md](Recursion/2.%20Add%20Two%20Numbers.md)
 
 </details>
 
