@@ -12,7 +12,18 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>Array</strong></summary>
 
 - [1. Two Sum.md](Array/1.%20Two%20Sum.md)
+- [11. Container With Most Water.md](Array/11.%20Container%20With%20Most%20Water.md)
+- [15. 3Sum.md](Array/15.%203Sum.md)
+- [16. 3Sum Closest.md](Array/16.%203Sum%20Closest.md)
+- [18. 4Sum.md](Array/18.%204Sum.md)
 - [4. Median of Two Sorted Arrays.md](Array/4.%20Median%20of%20Two%20Sorted%20Arrays.md)
+
+</details>
+
+<details>
+<summary><strong>Backtracking</strong></summary>
+
+- [17. Letter Combinations of a Phone Number.md](Backtracking/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)
 
 </details>
 
@@ -39,9 +50,19 @@ Each category contains problems and their solutions. Click on a section to expan
 </details>
 
 <details>
+<summary><strong>Greedy</strong></summary>
+
+- [11. Container With Most Water.md](Greedy/11.%20Container%20With%20Most%20Water.md)
+
+</details>
+
+<details>
 <summary><strong>Hash Table</strong></summary>
 
 - [1. Two Sum.md](Hash%20Table/1.%20Two%20Sum.md)
+- [12. Integer to Roman.md](Hash%20Table/12.%20Integer%20to%20Roman.md)
+- [13. Roman to Integer.md](Hash%20Table/13.%20Roman%20to%20Integer.md)
+- [17. Letter Combinations of a Phone Number.md](Hash%20Table/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)
 - [3. Longest Substring Without Repeating Characters.md](Hash%20Table/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 
 </details>
@@ -49,6 +70,7 @@ Each category contains problems and their solutions. Click on a section to expan
 <details>
 <summary><strong>Linked List</strong></summary>
 
+- [19. Remove Nth Node From End of List.md](Linked%20List/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
 - [2. Add Two Numbers.md](Linked%20List/2.%20Add%20Two%20Numbers.md)
 
 </details>
@@ -56,6 +78,8 @@ Each category contains problems and their solutions. Click on a section to expan
 <details>
 <summary><strong>Math</strong></summary>
 
+- [12. Integer to Roman.md](Math/12.%20Integer%20to%20Roman.md)
+- [13. Roman to Integer.md](Math/13.%20Roman%20to%20Integer.md)
 - [2. Add Two Numbers.md](Math/2.%20Add%20Two%20Numbers.md)
 - [7. Reverse Integer.md](Math/7.%20Reverse%20Integer.md)
 - [9. Palindrome Number.md](Math/9.%20Palindrome%20Number.md)
@@ -78,9 +102,30 @@ Each category contains problems and their solutions. Click on a section to expan
 </details>
 
 <details>
+<summary><strong>Sorting</strong></summary>
+
+- [15. 3Sum.md](Sorting/15.%203Sum.md)
+- [16. 3Sum Closest.md](Sorting/16.%203Sum%20Closest.md)
+- [18. 4Sum.md](Sorting/18.%204Sum.md)
+
+</details>
+
+<details>
+<summary><strong>Stack</strong></summary>
+
+- [20. Valid Parentheses.md](Stack/20.%20Valid%20Parentheses.md)
+
+</details>
+
+<details>
 <summary><strong>String</strong></summary>
 
 - [10. Regular Expression Matching.md](String/10.%20Regular%20Expression%20Matching.md)
+- [12. Integer to Roman.md](String/12.%20Integer%20to%20Roman.md)
+- [13. Roman to Integer.md](String/13.%20Roman%20to%20Integer.md)
+- [14. Longest Common Prefix.md](String/14.%20Longest%20Common%20Prefix.md)
+- [17. Letter Combinations of a Phone Number.md](String/17.%20Letter%20Combinations%20of%20a%20Phone%20Number.md)
+- [20. Valid Parentheses.md](String/20.%20Valid%20Parentheses.md)
 - [3. Longest Substring Without Repeating Characters.md](String/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 - [5. Longest Palindromic Substring.md](String/5.%20Longest%20Palindromic%20Substring.md)
 - [6. Zigzag Conversion.md](String/6.%20Zigzag%20Conversion.md)
@@ -89,8 +134,20 @@ Each category contains problems and their solutions. Click on a section to expan
 </details>
 
 <details>
+<summary><strong>Trie</strong></summary>
+
+- [14. Longest Common Prefix.md](Trie/14.%20Longest%20Common%20Prefix.md)
+
+</details>
+
+<details>
 <summary><strong>Two Pointers</strong></summary>
 
+- [11. Container With Most Water.md](Two%20Pointers/11.%20Container%20With%20Most%20Water.md)
+- [15. 3Sum.md](Two%20Pointers/15.%203Sum.md)
+- [16. 3Sum Closest.md](Two%20Pointers/16.%203Sum%20Closest.md)
+- [18. 4Sum.md](Two%20Pointers/18.%204Sum.md)
+- [19. Remove Nth Node From End of List.md](Two%20Pointers/19.%20Remove%20Nth%20Node%20From%20End%20of%20List.md)
 - [5. Longest Palindromic Substring.md](Two%20Pointers/5.%20Longest%20Palindromic%20Substring.md)
 
 </details>
