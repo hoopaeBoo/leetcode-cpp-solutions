@@ -193,6 +193,7 @@ Each category contains problems and their solutions. Click on a section to expan
 <summary><strong>Hash Table</strong></summary>
 
 - [1. Two Sum.md](Hash%20Table/1.%20Two%20Sum.md)
+- [3. Longest Substring Without Repeating Characters.md](Hash%20Table/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 
 </details>
 
@@ -370,6 +371,7 @@ Each category contains problems and their solutions. Click on a section to expan
 <details>
 <summary><strong>Sliding Window</strong></summary>
 
+- [3. Longest Substring Without Repeating Characters.md](Sliding%20Window/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 
 </details>
 
@@ -388,6 +390,7 @@ Each category contains problems and their solutions. Click on a section to expan
 <details>
 <summary><strong>String</strong></summary>
 
+- [3. Longest Substring Without Repeating Characters.md](String/3.%20Longest%20Substring%20Without%20Repeating%20Characters.md)
 
 </details>
 
