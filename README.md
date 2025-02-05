@@ -439,17 +439,112 @@ Each category contains problems and their solutions. Click on a section to expan
 ---
 
 ## 🚀 How to Use
-### 🔍 Finding a Solution
-1. Browse through the **categories** above.
-2. Click on a **category** to expand it.
-3. Select a **problem** to view the solution.
 
-### 💻 Running a Solution
-To compile and run a C++ solution locally:
-```bash
-g++ -std=c++17 filename.cpp -o output
-./output
+### **💻 Running a Solution**
+To **compile and run** LeetCode-style C++ code **locally**, you need to:
+1. **Wrap the `Solution` class** inside a `main()` function.
+2. **Include necessary headers** (`#include <iostream>, <vector>, <unordered_map>`)
+3. **Provide input handling** for the `twoSum()` function.
+4. **Compile and run** the program.
+
+---
+
+### **✅ Steps**
+1. **Create a file**: `two_sum.cpp`
+2. **Add a `main()` function** to call `Solution::twoSum()`.
+3. **Compile using `g++`**.
+4. **Run the executable**.
+
+---
+
+### **📝 Full Working Code (`two_sum.cpp`)**
+```cpp
+#include <iostream>
+#include <vector>
+#include <unordered_map>
+
+using namespace std;
+
+class Solution {
+public:
+    vector<int> twoSum(vector<int>& nums, int target) {
+        unordered_map<int, int> m;
+        for (int i = 0; i < nums.size(); ++i) {
+            int complement = target - nums[i];
+            if (m.count(complement)) return {m[complement], i};
+            m[nums[i]] = i;
+        }
+        return {};
+    }
+};
+
+int main() {
+    Solution solution;
+
+    // Input handling
+    vector<int> nums;
+    int target, n;
+
+    cout << "Enter number of elements: ";
+    cin >> n;
+    
+    cout << "Enter elements: ";
+    nums.resize(n);
+    for (int i = 0; i < n; i++) cin >> nums[i];
+
+    cout << "Enter target: ";
+    cin >> target;
+
+    // Run twoSum function
+    vector<int> result = solution.twoSum(nums, target);
+
+    // Output result
+    if (!result.empty()) {
+        cout << "Indices: [" << result[0] << ", " << result[1] << "]" << endl;
+    } else {
+        cout << "No solution found!" << endl;
+    }
+
+    return 0;
+}
 ```
+
+---
+
+### **🔧 Compilation & Execution**
+#### **1️⃣ Compile the C++ Code**
+```bash
+g++ -std=c++17 two_sum.cpp -o two_sum
+```
+
+#### **2️⃣ Run the Program**
+```bash
+./two_sum
+```
+
+---
+
+### **🎯 Example Run**
+#### **Input**
+```
+Enter number of elements: 4
+Enter elements: 2 7 11 15
+Enter target: 9
+```
+#### **Output**
+```
+Indices: [0, 1]
+```
+
+---
+
+### **📌 Summary**
+✅ **Wraps the LeetCode `Solution` class** inside `main()`  
+✅ **Handles user input** for array and target  
+✅ **Compiles and runs locally** using `g++`  
+✅ **Displays output in a readable format**  
+
+🚀 **Now you can test LeetCode C++ solutions locally!** 🚀
 
 ---
 
