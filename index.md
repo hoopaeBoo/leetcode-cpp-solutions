@@ -11,7 +11,7 @@ Each category contains problems and their solutions. Click on a section to expan
 <details>
 <summary><strong>Array</strong></summary>
 
-- [1. Two Sum.md](Array/1. Two Sum.md)
+- [1. Two Sum.md](Array/1.%20Two%20Sum.md)
 
 </details>
 
@@ -192,7 +192,7 @@ Each category contains problems and their solutions. Click on a section to expan
 <details>
 <summary><strong>Hash Table</strong></summary>
 
-- [1. Two Sum.md](Hash Table/1. Two Sum.md)
+- [1. Two Sum.md](Hash%20Table/1.%20Two%20Sum.md)
 
 </details>
 
